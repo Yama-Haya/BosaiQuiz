@@ -1,12 +1,15 @@
 body {
-    position:relative;
+  position:relative;
+  color:#ffffff;
+  background:#5f9ea0;
+  font-family:Meiryo,'メイリオ','ヒラギノ角ゴ Pro W3';
 }
  
 main {
-    margin-top:auto;
-    margin-bottom:auto;
-    position:absolute;
-    top:0;
-    bottom:0;
-    height:2em;
+  margin-top:auto;
+  margin-bottom:auto;
+  position:absolute;
+  top:0;
+  bottom:0;
+  height:2em;
 }
