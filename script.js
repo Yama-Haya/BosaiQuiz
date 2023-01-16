@@ -28,7 +28,7 @@ function setReady() {
 function quiz() {
 	var s, n;
 	//問題
-	document.getElementById("q").innerHTML = (count + 1) + "問目：" + qa[count][0];
+	document.getElementById("q").innerHTML = qa[count][0];
 	//選択肢
 	s = "";
 	for (n=1;n<=q_sel;n++) {
@@ -49,7 +49,7 @@ function anser(num) {
 		s += "×" + qa[count][num];
     ansers[count] = "×";
 	}
-	document.getElementById("text_a").innerHTML = s;
+	document.getElementById("a").innerHTML = s;
   //次の問題を表示
 	count++;
 	if (count < qa.length) {
