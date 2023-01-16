@@ -28,13 +28,13 @@ function setReady() {
 function quiz() {
 	var s, n;
 	//問題
-	document.getElementById("text_q").innerHTML = (count + 1) + "問目：" + qa[count][0];
+	document.getElementById("q").innerHTML = (count + 1) + "問目：" + qa[count][0];
 	//選択肢
 	s = "";
 	for (n=1;n<=q_sel;n++) {
 		s += "【<a href=''>" + n + "：" + qa[count][n] + "</a>】";
 	}
-	document.getElementById("text_s").innerHTML = s;
+	document.getElementById("s").innerHTML = s;
 }
 //解答表示
 function anser(num) {
@@ -70,11 +70,11 @@ function anser(num) {
 		}
 		s += "</tr>";
 		s += "</table>";
-		document.getElementById("text_q").innerHTML = "";
+		document.getElementById("q").innerHTML = "";
     //次の選択肢
 		s = "【<a href='javascript:history.back()'>前のページに戻る</a>】";
 		s += "【<a href='javascript:setReady()'>同じ問題を最初から</a>】";
 		s += "【<a href=''>次の問題に進む</a>】";
-		document.getElementById("text_s").innerHTML = "";
+		document.getElementById("s").innerHTML = "";
 	}
 }
