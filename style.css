@@ -6,13 +6,12 @@ body {
   color:#ffffff;
   background:#5f9ea0;
   font-family:Meiryo,'メイリオ','ヒラギノ角ゴ Pro W3';
-  margin: 0;
-  display: flex;
+  margin: 0 auto;
   place-items: center;
   min-height: 100vh;
   user-select: none;
 }
  
 .center {
-  text-align: center;
+  
 }
