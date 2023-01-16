@@ -1,0 +1,12 @@
+body {
+    position:relative;
+}
+ 
+main {
+    margin-top:auto;
+    margin-bottom:auto;
+    position:absolute;
+    top:0;
+    bottom:0;
+    height:2em;
+}
