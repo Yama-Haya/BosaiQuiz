@@ -3,6 +3,9 @@
 # 防災クイズ
 全年齢対応(予定)
 
+# プレイ
+[全年齢対象](https://yama-haya.github.io/BosaiQuiz)
+
 # ライセンス
 防災クイズは[MITライセンス](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
 
