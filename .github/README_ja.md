@@ -1,10 +1,13 @@
-[English](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README_en.md) / 日本語
+[English](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README.md) / 日本語
 
 # 防災クイズ
 全年齢対応(予定)
 
 # プレイ
 [全年齢対象](https://yama-haya.github.io/BosaiQuiz)
+
+# 著者
+[こちらをご覧ください。](https://yama-haya.github.io)
 
 # ライセンス
 防災クイズは[MITライセンス](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
