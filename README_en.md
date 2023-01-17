@@ -1,4 +1,4 @@
-English / [日本語](https://github.com/Yama-Haya/BosaiQuiz/blob/main/README_ja.md)
+English / [日本語](https://github.com/Yama-Haya/BosaiQuiz/blob/main/README.md)
 
 # BosaiQuiz
 
