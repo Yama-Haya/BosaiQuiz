@@ -57,8 +57,10 @@
 	      //答え合わせ
 	      if (num == qa[count][q_sel + 1]) {
 		      //正解
+		      (new Audio("c.mp3")).play();
 		      ansers[count] = "○";
 	      } else {
+		      (new Audio("w.mp3")).play();
 		      ansers[count] = "×";
 	      }
 	      s += ansers[count] + qa[count][num];
