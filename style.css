@@ -8,6 +8,7 @@ body {
   font-family:Meiryo,'メイリオ','ヒラギノ角ゴ Pro W3';
   text-align: center;
   height: 100%;
+  text-align: left;
 }
 main{
   margin-top:20%;
@@ -17,6 +18,13 @@ table{
   margin-right: auto;
   border-collapse: collapse;
 }
-th,td{
-  border: solid 1px black;
+table th {
+  color: black;
+  padding: 10px;
+  border-bottom: 3px solid #174a5c;
+}
+table td {
+  padding: 10px;
+  color: gray;
+  border-bottom: 1px solid gray;
 }
