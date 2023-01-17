@@ -15,13 +15,14 @@
       <div id="text_g" class="table"></div>
       <div id="text_s"></div>
       <div id="text_a"></div>
+      <div id="text_e"></div>
     </main>
 		
     <script scr="https://code.jquery.com/jquery-3.6.3.min.js"></script>
     <script type="text/javascript">
       //問題と解答
       qa = new Array();
-      qa[0] = ["イルカを漢字で書くとどれ？","海豚","海牛","河豚",1];
+      qa[0] = ["問題","選択肢1","選択肢2","選択肢3",1,"説明"];
 
       //初期設定
       q_sel = 3; //選択肢の数
@@ -42,6 +43,7 @@
 	      //問題
 	      document.getElementById("text_q").innerHTML = qa[count][0];
 				document.getElementById("text_g").innerHTML = "";
+        document.getElementById("text_e").innerHTML = "";
 	      //選択肢
 	      s = "";
 	      for (n=1;n<=q_sel;n++) {
@@ -89,6 +91,7 @@
 		      s += "</tr>";
 		      s += "</table>";
 		      document.getElementById("text_g").innerHTML = s;
+          document.getElementById("text_e").innerHTML = qa[count][5];
           document.getElementById("text_q").innerHTML = "";
 		      //次の選択肢
 		      s = "【<a href='javascript:history.back()'>前のページに戻る</a>】";
