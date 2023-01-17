@@ -2,5 +2,5 @@
 
 # 防災クイズ
 
-## クレジット
+# クレジット
 - [OtoLogic](https://otologic.jp)
