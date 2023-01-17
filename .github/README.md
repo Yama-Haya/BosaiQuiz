@@ -3,5 +3,8 @@
 # 防災クイズ
 全年齢対応(予定)
 
+# ライセンス
+防災クイズは[MITライセンス](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
+
 # クレジット
 - [OtoLogic](https://otologic.jp)
