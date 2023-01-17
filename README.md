@@ -1,4 +1,4 @@
-[English](https://github.com/Yama-Haya/BosaiQuiz) / 日本語
+[English](https://github.com/Yama-Haya/BosaiQuiz/blob/main/README_en.md) / 日本語
 
 # 防災クイズ
 
