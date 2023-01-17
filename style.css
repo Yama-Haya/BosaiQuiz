@@ -18,12 +18,10 @@ table{
   border-collapse: collapse;
 }
 table th {
-  color: black;
   padding: 10px;
   border-bottom: 3px solid #174a5c;
 }
 table td {
   padding: 10px;
-  color: gray;
   border-bottom: 1px solid gray;
 }
