@@ -3,6 +3,9 @@ English / [日本語](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/R
 # BosaiQuiz
 Suitable for all ages (planned)
 
+# Play
+[For all ages](https://yama-haya.github.io/BosaiQuiz)
+
 # License
 BosaiQuiz is licensed under the [MIT license](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE).
 
