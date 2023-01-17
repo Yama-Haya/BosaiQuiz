@@ -3,4 +3,4 @@
 # 防災クイズ
 
 ## クレジット
--[OtoLogic](https://otologic.jp)
+- [OtoLogic](https://otologic.jp)
