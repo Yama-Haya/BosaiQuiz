@@ -12,7 +12,11 @@ body {
 main{
   margin-top:20%;
 }
-.table{
+table{
   margin-left: 45%;
   margin-right: auto;
+  border-collapse: collapse;
+}
+th,td{
+  border: solid 1px black;
 }
