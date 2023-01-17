@@ -1,6 +1,6 @@
 ![License:MIT](https://img.shields.io/github/license/Yama-Haya/BosaiQuiz)
 
-English / [日本語](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README.md)
+English / [日本語](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README_ja.md)
 
 # BosaiQuiz
 Suitable for all ages (planned)
