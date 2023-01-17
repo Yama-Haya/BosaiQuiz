@@ -1,3 +1,5 @@
+![License:MIT](https://img.shields.io/github/license/Yama-Haya/BosaiQuiz)
+
 [English](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README.md) / 日本語
 
 # 防災クイズ
