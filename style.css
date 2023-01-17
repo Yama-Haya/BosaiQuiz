@@ -16,6 +16,7 @@ table{
   margin-left: 45%;
   margin-right: auto;
   border-collapse: collapse;
+  border: 0px none;
 }
 table th {
   padding: 10px;
