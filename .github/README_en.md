@@ -6,6 +6,9 @@ Suitable for all ages (planned)
 # Play
 [For all ages](https://yama-haya.github.io/BosaiQuiz)
 
+# Author
+[Please look here.](https://yama-haya.github.io)
+
 # License
 BosaiQuiz is licensed under the [MIT license](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE).
 
