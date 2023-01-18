@@ -1,4 +1,4 @@
-![License:MIT](https://img.shields.io/github/license/Yama-Haya/BosaiQuiz)
+![License:CC BY-SA]()
 
 English / [日本語](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README_ja.md)
 
