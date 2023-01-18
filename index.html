@@ -21,7 +21,7 @@
     <script type="text/javascript">
       //問題と解答
       qa = new Array();
-      qa[0] = ["問題","選択肢1","選択肢2","選択肢3",1];
+      qa[0] = ["問題","選択肢1","選択肢2","選択肢3",1,"説明"];
 
       //初期設定
       q_sel = 3; //選択肢の数
@@ -66,7 +66,7 @@
 		      (new Audio("sound/w.mp3")).play();
 		      ansers[count] = "×";
 	      }
-	      s += ansers[count] + qa[count][num];
+	      s += ansers[count] + qa[count][num] + "<br>" + qa[count][5] ;
 	      document.getElementById("text_a").innerHTML = s;
 	
 	      //次の問題を表示
