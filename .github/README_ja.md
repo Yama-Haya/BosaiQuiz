@@ -12,7 +12,7 @@
 [こちらをご覧ください。](https://yama-haya.github.io)
 
 # ライセンス
-防災クイズは[MITライセンス](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
+防災クイズは[CC BY-SA](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
 
 # クレジット
 - [OtoLogic](https://otologic.jp)
