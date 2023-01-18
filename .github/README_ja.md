@@ -14,8 +14,8 @@
 # ライセンス
 プログラムは[MIT License](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
 
-画像は[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)が適用されます。
+画像及び音源は[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)が適用されます。
 
 # クレジット
 - [OtoLogic](https://otologic.jp)
-- [Wikipedia]
+- [Wikipedia Commons](https://commons.wikimedia.org)
