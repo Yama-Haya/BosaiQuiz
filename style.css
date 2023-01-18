@@ -9,6 +9,10 @@ body {
   text-align: center;
   height: 100%;
 }
+img {
+  height: 30%;
+  width: auto;
+}
 main{
   margin-top:20%;
 }
