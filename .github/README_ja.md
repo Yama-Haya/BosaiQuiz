@@ -1,4 +1,4 @@
-![License:MIT](https://img.shields.io/github/license/Yama-Haya/BosaiQuiz)
+
 
 [English](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README.md) / 日本語
 
@@ -12,7 +12,10 @@
 [こちらをご覧ください。](https://yama-haya.github.io)
 
 # ライセンス
-防災クイズは[CC BY-SA](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
+プログラムは[MIT License](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE)が適用されます。
+
+画像は[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)が適用されます。
 
 # クレジット
 - [OtoLogic](https://otologic.jp)
+- [Wikipedia]
