@@ -1,5 +1,3 @@
-![License:CC BY-SA and MIT  License](https://img.shields.io/github/license/Yama-Haya/BosaiQuiz)
-
 English / [日本語](https://github.com/Yama-Haya/BosaiQuiz/blob/main/.github/README_ja.md)
 
 # BosaiQuiz
@@ -12,7 +10,9 @@ Suitable for all ages (planned)
 [Please look here.](https://yama-haya.github.io)
 
 # License
-BosaiQuiz is licensed under the [CC BY-SA 4.0](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE).
+The program is licensed under the [MIT License](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE).
+The program is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja).
+
 
 # Copyright
 - [OtoLogic](https://otologic.jp)
