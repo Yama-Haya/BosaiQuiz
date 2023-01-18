@@ -12,7 +12,7 @@ Suitable for all ages (planned)
 [Please look here.](https://yama-haya.github.io)
 
 # License
-BosaiQuiz is licensed under the [MIT license](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE).
+BosaiQuiz is licensed under the [CC BY-SA](https://github.com/Yama-Haya/BosaiQuiz/blob/main/LICENSE).
 
 # Copyright
 - [OtoLogic](https://otologic.jp)
