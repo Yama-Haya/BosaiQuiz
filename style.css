@@ -11,7 +11,7 @@ body {
 }
 img {
   height: 30%;
-  width: auto;
+  max-width: 90%;
 }
 main{
   margin-top:20%;
