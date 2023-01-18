@@ -17,3 +17,4 @@ The Images and sound sources is licensed under the [CC BY-SA 4.0](https://creati
 
 # Copyright
 - [OtoLogic](https://otologic.jp)
+- [Wikimedia Commons](https://commons.wikimedia.org)
