@@ -12,6 +12,7 @@
   <body>
     <main>
       <div id="text_q" style="font-size:45px; font-weight:bold;"></div>
+	    <div id="text_i"></div>
       <div id="text_g"></div>
       <div id="text_s"></div>
       <div id="text_a"></div>
@@ -21,7 +22,7 @@
     <script type="text/javascript">
       //問題と解答
       qa = new Array();
-      qa[0] = ["問題","選択肢1","選択肢2","選択肢3",1,"説明"];
+      qa[0] = ["問題","選択肢1","選択肢2","選択肢3",1,"説明","画像URL"];
 
       //初期設定
       q_sel = 3; //選択肢の数
@@ -42,6 +43,7 @@
 	      //問題
 	      document.getElementById("text_q").innerHTML = qa[count][0];
 				document.getElementById("text_g").innerHTML = "";
+        document.getElementById("text_i").innerHTML = qa[count][6];
         
 	      //選択肢
 	      s = "";
@@ -91,6 +93,7 @@
 		      s += "</table>";
 		      document.getElementById("text_g").innerHTML = s;
           document.getElementById("text_q").innerHTML = "";
+          document.getElementById("text_i").innerHTML = "";
 		      //次の選択肢
 		      s = "【<a href='javascript:history.back()'>前のページに戻る</a>】";
 		      s += "【<a href='javascript:setReady()'>同じ問題を最初から</a>】";
