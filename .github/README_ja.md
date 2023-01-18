@@ -18,4 +18,4 @@
 
 # クレジット
 - [OtoLogic](https://otologic.jp)
-- [Wikipedia Commons](https://commons.wikimedia.org)
+- [Wikimedia Commons](https://commons.wikimedia.org)
