@@ -49,7 +49,7 @@
 	      s = "";
 	      for (n=1;n<=q_sel;n++) {
 		      if (qa[count][n] != "") {
-			      s += "【<a class='btn' href='javascript:anser(" + n + ")'>" + n + "：" + qa[count][n] + "</a>】";
+			      s += "<a class='btn' href='javascript:anser(" + n + ")'>" + n + "：" + qa[count][n] + "</a>";
 		      }
 	      }
 	      document.getElementById("text_s").innerHTML = s;
