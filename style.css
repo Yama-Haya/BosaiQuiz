@@ -27,3 +27,17 @@ table th {
 table td {
   padding: 10px;
 }
+.btn-flat-logo {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.25em 0.5em;
+  text-decoration: none;
+  color: #FFF;
+  background: #00bcd4;
+  transition: .4s;
+}
+
+.btn-flat-logo:hover {
+  background: #1ec7bb;
+}
