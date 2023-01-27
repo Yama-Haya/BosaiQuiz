@@ -27,7 +27,7 @@ table th {
 table td {
   padding: 10px;
 }
-.btn-flat-logo {
+.btn {
   position: relative;
   display: inline-block;
   font-weight: bold;
@@ -38,6 +38,6 @@ table td {
   transition: .4s;
 }
 
-.btn-flat-logo:hover {
+.btn:hover {
   background: #1ec7bb;
 }
