@@ -1,1 +1,22 @@
-
+{
+  "name": "bosaiquiz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "electron ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yama-Haya/BosaiQuiz.git"
+  },
+  "author": "YamaHaya (https://github.com/Yama-Haya)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yama-Haya/BosaiQuiz/issues"
+  },
+  "homepage": "https://github.com/Yama-Haya/BosaiQuiz#readme",
+  "devDependencies": {
+    "electron": "^22.2.0",
+    "electron-packager": "^17.1.1"
+  }
+}
